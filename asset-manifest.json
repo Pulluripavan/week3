@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pulluripavan/week3.git/static/css/main.f8a5ba8f.css",
+    "main.js": "/Pulluripavan/week3.git/static/js/main.70b2df69.js",
+    "static/js/453.d2e2116f.chunk.js": "/Pulluripavan/week3.git/static/js/453.d2e2116f.chunk.js",
+    "index.html": "/Pulluripavan/week3.git/index.html",
+    "main.f8a5ba8f.css.map": "/Pulluripavan/week3.git/static/css/main.f8a5ba8f.css.map",
+    "main.70b2df69.js.map": "/Pulluripavan/week3.git/static/js/main.70b2df69.js.map",
+    "453.d2e2116f.chunk.js.map": "/Pulluripavan/week3.git/static/js/453.d2e2116f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8a5ba8f.css",
+    "static/js/main.70b2df69.js"
+  ]
+}
